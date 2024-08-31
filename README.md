@@ -3,9 +3,9 @@
 Я <b>Роман Данилов</b>, программист 1С.
 
 ### Мои работы
-Дипломная работа - [кастомизация конфигурации “Управление IT-фирмой для компании ”Ваш компьютерный мастер”](https://github.com/danroman-github/diplom)
+- Дипломная работа - [кастомизация конфигурации “Управление IT-фирмой для компании ”Ваш компьютерный мастер”](https://github.com/danroman-github/diplom)
 
-Дипломная работа - [Учет товаров в магазине](https://github.com/danroman-github/danroman-github/blob/main/product%20accounting.dt)
+- Дипломная работа - [Учет товаров в магазине](https://github.com/danroman-github/danroman-github/blob/main/product%20accounting.dt)
 
 ### Диплом ТГУ
 [1C-программист](https://github.com/danroman-github/danroman-github/blob/main/diplom%20TGU.png)
