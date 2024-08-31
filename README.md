@@ -2,6 +2,9 @@
 
 Я <b>Роман Данилов</b>, программист 1С.
 
+### Диплом ТГУ
+[1C-программист](https://github.com/danroman-github/danroman-github/blob/main/diplom%20TGU.png)
+
 ### Сертификаты Нетологии
 1C-программист: - [с нуля до middle](https://github.com/danroman-github/danroman-github/blob/main/middle.pdf)
 
