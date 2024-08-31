@@ -7,6 +7,7 @@
 
 ### Диплом и сертификаты Нетологии
 Диплом 1C-программист: - [с нуля до middle](https://github.com/danroman-github/danroman-github/blob/main/diplom%20TGU.png)
+
 Сертификаты: - [с нуля до middle](https://github.com/danroman-github/danroman-github/blob/main/middle.pdf)
 [Мобильная разработка](https://github.com/danroman-github/danroman-github/blob/main/Mobile%20development.pdf),
 [БСП](https://github.com/danroman-github/danroman-github/blob/main/BSP.pdf),
