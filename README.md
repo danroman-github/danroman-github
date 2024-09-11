@@ -4,7 +4,7 @@
 
 г. Вышний Волочек, Тверская обл., Россия.
 
-[e-mail](danroman@yandex.ru)
+[e-mail](mailto:danroman@yandex.ru)
 
 ### Мои работы
 - Дипломная работа - [кастомизация конфигурации “Управление IT-фирмой для компании ”Ваш компьютерный мастер”](https://github.com/danroman-github/diplom)
