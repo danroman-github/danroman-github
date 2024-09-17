@@ -7,9 +7,9 @@
 [e-mail](mailto:danroman@yandex.ru)
 
 ### Мои работы
-- Дипломная работа - [кастомизация конфигурации “Управление IT-фирмой для компании ”Ваш компьютерный мастер”](https://github.com/danroman-github/diplom)
+- Дипломная работа Нетологии - [кастомизация конфигурации “Управление IT-фирмой для компании ”Ваш компьютерный мастер”](https://github.com/danroman-github/diplom)
 
-- Дипломная работа - [Учет товаров в магазине](https://github.com/danroman-github/danroman-github/blob/main/product%20accounting.dt)
+- Дипломная работа ТГУ - [Учет товаров в магазине](https://github.com/danroman-github/danroman-github/blob/main/product%20accounting.dt)
 
 ### Диплом и сертификаты Нетологии
 Диплом 1C-программист: - [с нуля до middle](https://github.com/danroman-github/danroman-github/blob/main/diplom%20TGU.png)
