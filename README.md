@@ -12,7 +12,7 @@
 - Дипломная работа ТГУ - [Учет товаров в магазине](https://github.com/danroman-github/danroman-github/blob/main/product%20accounting.dt)
 
 ### Диплом и сертификаты Нетологии
-Диплом 1C-программист: - [с нуля до middle](https://github.com/danroman-github/danroman-github/blob/main/diplom%20TGU.png)
+Диплом 1C-программист: - [с нуля до middle](https://github.com/danroman-github/danroman-github/blob/main/diplom%20Netology.jpg)
 
 Сертификаты: - [с нуля до middle](https://github.com/danroman-github/danroman-github/blob/main/middle.pdf),
 [Мобильная разработка](https://github.com/danroman-github/danroman-github/blob/main/Mobile%20development.pdf),
