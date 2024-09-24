@@ -4,7 +4,7 @@
 
 г. Вышний Волочек, Тверская обл., Россия.
 
-[e-mail](mailto:danroman@yandex.ru)
+[e-mail](mailto:danroman@yandex.ru) — предпочитаемый способ связи
 
 ## Мои работы:
 
