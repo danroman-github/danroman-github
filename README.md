@@ -27,7 +27,7 @@
 
 Сертификаты: - 
 
-<img src="https://github.com/danroman-github/danroman-github/blob/main/diplom%20TGU.png" alt="с нуля до middle">
+<img src="https://github.com/danroman-github/danroman-github/blob/main/diplom%20TGU.png" height="32" alt="с нуля до middle">
 [с нуля до middle](https://github.com/danroman-github/danroman-github/blob/main/middle.pdf),
 [Мобильная разработка](https://github.com/danroman-github/danroman-github/blob/main/Mobile%20development.pdf),
 [БСП](https://github.com/danroman-github/danroman-github/blob/main/BSP.pdf),
