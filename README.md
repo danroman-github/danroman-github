@@ -27,9 +27,7 @@
 
 Дипломы и сертификаты: - 
 
-<img src="https://github.com/danroman-github/danroman-github/blob/main/diplom%20TGU.png" height="64" alt="с нуля до middle">
-<img src="https://github.com/danroman-github/danroman-github/blob/main/Mobile%20development.png" height="64" alt="мобильная разработка">
-<img src="https://github.com/danroman-github/danroman-github/blob/main/LSS.png" height="64" alt="БСП">
+<img src="https://github.com/danroman-github/danroman-github/blob/main/diplom%20TGU.png" height="64" alt="с нуля до middle"> <img src="https://github.com/danroman-github/danroman-github/blob/main/Mobile%20development.png" height="64" alt="мобильная разработка"> <img src="https://github.com/danroman-github/danroman-github/blob/main/LSS.png" height="64" alt="БСП">
 
 [БСП](https://github.com/danroman-github/danroman-github/blob/main/BSP.pdf),
 [Доп. возможности платформы 1С](https://github.com/danroman-github/danroman-github/blob/main/Add.features%201C.pdf) 
