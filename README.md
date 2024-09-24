@@ -24,7 +24,7 @@
 
 ### Диплом и сертификаты Нетологии
 
-<img src="https://github.com/danroman-github/danroman-github/blob/main/diplom%20Netology.png" height="64" alt="с нуля до middle"> <img src="https://github.com/danroman-github/danroman-github/blob/main/middle.png" height="64" alt="с нуля до middle"> <img src="https://github.com/danroman-github/danroman-github/blob/main/Mobile%20development.png" height="64" alt="мобильная разработка"> <img src="https://github.com/danroman-github/danroman-github/blob/main/LSS.png" height="64" alt="БСП"> <img src="https://github.com/danroman-github/danroman-github/blob/main/Add.features%201C.png" height="64" alt="Доп. возможности платформы 1С"> 
+<img src="https://github.com/danroman-github/danroman-github/blob/main/diplom%20Netology.jpg" height="64" alt="с нуля до middle"> <img src="https://github.com/danroman-github/danroman-github/blob/main/middle.png" height="64" alt="с нуля до middle"> <img src="https://github.com/danroman-github/danroman-github/blob/main/Mobile%20development.png" height="64" alt="мобильная разработка"> <img src="https://github.com/danroman-github/danroman-github/blob/main/LSS.png" height="64" alt="БСП"> <img src="https://github.com/danroman-github/danroman-github/blob/main/Add.features%201C.png" height="64" alt="Доп. возможности платформы 1С"> 
 
 ### Диплом ТГУ
 
