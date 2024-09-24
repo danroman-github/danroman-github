@@ -25,7 +25,10 @@
 ### Диплом и сертификаты Нетологии
 Диплом 1C-программист: - [с нуля до middle](https://github.com/danroman-github/danroman-github/blob/main/diplom%20Netology.jpg)
 
-Сертификаты: - [с нуля до middle](https://github.com/danroman-github/danroman-github/blob/main/middle.pdf),
+Сертификаты: - 
+
+<img src="https://github.com/danroman-github/danroman-github/blob/main/middle.pdf" alt="с нуля до middle">
+[с нуля до middle](https://github.com/danroman-github/danroman-github/blob/main/middle.pdf),
 [Мобильная разработка](https://github.com/danroman-github/danroman-github/blob/main/Mobile%20development.pdf),
 [БСП](https://github.com/danroman-github/danroman-github/blob/main/BSP.pdf),
 [Доп. возможности платформы 1С](https://github.com/danroman-github/danroman-github/blob/main/Add.features%201C.pdf) 
