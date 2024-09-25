@@ -1,14 +1,32 @@
 ## Здравствуйте!
 
-Я <b>Роман Данилов</b>, программист 1С.
+Меня зовут Роман. Я программист 1С.
 
 г. Вышний Волочек, Тверская обл., Россия.
 
 [e-mail](mailto:danroman@yandex.ru) — предпочитаемый способ связи
 
+Ключевые компетенции
+ 
+- 1С: Предприятие 8
+- Работа в среде разработки «1С: EDT»
+- Работа с разными типами данных, с метаданными
+- Работа с виртуальными таблицами остатков и оборотов
+- Работа с регистрами
+- Работа с XML, JSON
+- Разработка конфигураций и подсистем с нуля, обновление конфигураций
+- Разработка внешних отчетов, обработок, печатных форм
+- Знание HTTP- и SOAP- сервисов
+- Запуск и отладка интерфейсов, справочников, реквизитов, форм
+- Выгрузка и загрузка данных
+- Интеграция и обмен данными между 1С веб-сервисами и мобильными приложениями
+- Расчёт сумм в зависимости от налогообложений
+- Настройка событий по видам и пользователям
+- Настройка цепочек процессов, бизнес-процессов
+
 ## Мои работы:
 
-### Учебные проекты в "Нетологии". 
+1. Учебные проекты в "Нетологии". 
 
 [Кастомизация конфигурации “Управление IT-фирмой для компании ”Ваш компьютерный мастер”](https://github.com/danroman-github/diplom)
 
@@ -18,14 +36,20 @@
 - Подготовил автотест для проверки корректности работы подсистемы «Работа с заявками клиентов».
 - Загрузил результат работы в новый репозиторий на GitHub.
 
-### Дипломная работа ТГУ 
+2. Учебные проекты в ТГУ 
 
 [Учет товаров в магазине](https://github.com/danroman-github/danroman-github/blob/main/product%20accounting.dt)
 
-### Диплом и сертификаты Нетологии
+ - Создал с нуля конфигурацию для учета реализации товаров.
 
-<img src="https://github.com/danroman-github/danroman-github/blob/main/diplom%20Netology.jpg" height="64" alt="с нуля до middle"> <img src="https://github.com/danroman-github/danroman-github/blob/main/middle.png" height="64" alt="с нуля до middle"> <img src="https://github.com/danroman-github/danroman-github/blob/main/Mobile%20development.png" height="64" alt="мобильная разработка"> <img src="https://github.com/danroman-github/danroman-github/blob/main/LSS.png" height="64" alt="БСП"> <img src="https://github.com/danroman-github/danroman-github/blob/main/Add.features%201C.png" height="64" alt="Доп. возможности платформы 1С"> 
+### Дипломы и сертификаты:
 
-### Диплом ТГУ
+<img src="https://github.com/danroman-github/danroman-github/blob/main/diplom%20Netology.jpg" height="64" alt="с нуля до middle"> <img src="https://github.com/danroman-github/danroman-github/blob/main/middle.png" height="64" alt="с нуля до middle"> <img src="https://github.com/danroman-github/danroman-github/blob/main/Mobile%20development.png" height="64" alt="мобильная разработка"> <img src="https://github.com/danroman-github/danroman-github/blob/main/LSS.png" height="64" alt="БСП"> <img src="https://github.com/danroman-github/danroman-github/blob/main/Add.features%201C.png" height="64" alt="Доп. возможности платформы 1С"> <img src="https://github.com/danroman-github/danroman-github/blob/main/diplom%20TGU.png" height="64" alt="с нуля до middle">
 
-<img src="https://github.com/danroman-github/danroman-github/blob/main/diplom%20TGU.png" height="64" alt="с нуля до middle">
+### О себе:
+
+Самостоятельно изучал языки программирования, программирование баз данных. По работе делал проекты по программированию промышленных контроллеров. 
+
+Нашел и изучил курс «1С-программист» в ТГУ. Для изучения новых инструментов изучил курс Нетологии «1С-программист: с нуля до middle». Решил продолжить карьеру в программировании. 
+
+Увлекает создание нового и решения сложных задач.
