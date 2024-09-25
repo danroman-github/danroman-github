@@ -5,6 +5,7 @@
 г. Вышний Волочек, Тверская обл., Россия.
 
 [e-mail](mailto:danroman@yandex.ru) — предпочитаемый способ связи
+
 [резюме](https://docs.google.com/document/d/1AIhtQWyntr-fZI0vCNaaPPzK9M3gRKAfG3DCkI7K7mQ/edit#heading=h.w62vgq4fqlv)
 
 Ключевые компетенции
