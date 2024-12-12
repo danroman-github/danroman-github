@@ -22,7 +22,7 @@
 
 ## Мои работы:
 
-[описание](https://github.com/danroman-github/desktop-tutorial/blob/main/README.md)
+[список](https://github.com/danroman-github/desktop-tutorial/blob/main/README.md)
 
 ### Дипломы и сертификаты:
 
