@@ -22,7 +22,7 @@
 
 ## Мои работы:
 
-- Загрузил результат работы в новый репозиторий на GitHub.
+[описание](https://github.com/danroman-github/desktop-tutorial/blob/main/README.md)
 
 ### Дипломы и сертификаты:
 
