@@ -20,7 +20,7 @@
 - Работа с API сторонних сервисов
 - Unit-тестирование при помощи PyTest и Jest
 
-![[Мои навыки](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![Мои навыки](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
 
 ## Мои работы:
 
@@ -38,4 +38,4 @@
 
 Увлекает создание нового и решения сложных задач.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=danroman-github)](https://github.com/ryo-ma/github-profile-trophy)
