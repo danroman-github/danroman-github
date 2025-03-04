@@ -35,3 +35,5 @@
 Нашел и изучил курс Нетологии «Fullstack-разработчик на Python». Решил продолжить карьеру в программировании. 
 
 Увлекает создание нового и решения сложных задач.
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
