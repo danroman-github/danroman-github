@@ -20,6 +20,8 @@
 - Работа с API сторонних сервисов
 - Unit-тестирование при помощи PyTest и Jest
 
+![[Мои навыки](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ## Мои работы:
 
 [список](https://github.com/danroman-github/desktop-tutorial/blob/main/README.md)
