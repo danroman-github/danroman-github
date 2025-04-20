@@ -20,12 +20,14 @@
 - Работа с API сторонних сервисов
 - Unit-тестирование при помощи PyTest и Jest
 
-[![My Skills](https://skillicons.dev/icons?i=pycharm,vscode,postgres,postman,html,css,react,django)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=pycharm "Pycharm")](https://www.jetbrains.com/ru-ru/pycharm/)
 [![My Skills](https://skillicons.dev/icons?i=django "Django")](https://www.djangoproject.com/)
 <img src="https://github.com/danroman-github/resources2/blob/main/web-apis-blue.png" height="48" alt="API"> 
 [![My Skills](https://skillicons.dev/icons?i=postgres "PostgreSQL")](https://www.postgresql.org)
 <a href="https://www.sqlalchemy.org"><img src="https://github.com/danroman-github/resources2/blob/main/alchemy-Dark.png" height="48"  alt="API"></a>
+[![My Skills](https://skillicons.dev/icons?i=git "Git")](https://git-scm.com)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
 
 ## Мои работы:
 
