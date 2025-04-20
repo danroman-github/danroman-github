@@ -28,8 +28,7 @@
 
 ### Дипломы и сертификаты:
 
-<img src="https://github.com/danroman-github/resources2/blob/main/Базы%20данных%20для%20python%20разработчиков.png" height="64" alt="Базы данных для python разработчиков">
-<img src="https://github.com/danroman-github/resources2/blob/main/Профессиональная%20работа%20с%20Python.png" height="64" alt="Профессиональная работа с Python">
+<img src="https://github.com/danroman-github/resources2/blob/main/Базы%20данных%20для%20python%20разработчиков.png" height="64" alt="Базы данных для python разработчиков"> <img src="https://github.com/danroman-github/resources2/blob/main/Профессиональная%20работа%20с%20Python.png" height="64" alt="Профессиональная работа с Python">
 
 ### О себе:
 
