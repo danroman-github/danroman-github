@@ -21,7 +21,7 @@
 - Unit-тестирование при помощи PyTest и Jest
 
 [![Мои навыки](https://skillicons.dev/icons?i=pycharm,vscode,postgres,postman,html,css,react,django)](https://skillicons.dev)
-[Мои навыки](https://skillicons.dev/icons?i=pycharm "Pycharm")
+[![Мои навыки](https://skillicons.dev/icons?i=pycharm "Pycharm")](https://skillicons.dev)
 
 ## Мои работы:
 
