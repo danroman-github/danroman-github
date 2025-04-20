@@ -25,8 +25,7 @@
 [![My Skills](https://skillicons.dev/icons?i=django "Django")](https://www.djangoproject.com/)
 <img src="https://github.com/danroman-github/resources2/blob/main/web-apis-blue.png" height="48" alt="API"> 
 [![My Skills](https://skillicons.dev/icons?i=postgres "PostgreSQL")](https://www.postgresql.org)
-<img src="https://github.com/danroman-github/resources2/blob/main/web-apis-blue.png" height="48" alt="API">
-[![My Skills](https://skillicons.dev/icons?i=sqlalchemy "SQLAlchemy")](https://www.sqlalchemy.org/)
+<img src="https://github.com/danroman-github/resources2/blob/main/alchemy-Dark.png" height="48" href="https://www.sqlalchemy.org" alt="API">
 
 ## Мои работы:
 
