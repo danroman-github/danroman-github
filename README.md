@@ -20,8 +20,10 @@
 - Работа с API сторонних сервисов
 - Unit-тестирование при помощи PyTest и Jest
 
-[![Мои навыки](https://skillicons.dev/icons?i=pycharm,vscode,postgres,postman,html,css,react,django)](https://skillicons.dev)
-[![Мои навыки](https://skillicons.dev/icons?i=pycharm "Pycharm")](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pycharm,vscode,postgres,postman,html,css,react,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pycharm "Pycharm")](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django "Django")](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=api "API")](https://skillicons.dev)
 
 ## Мои работы:
 
