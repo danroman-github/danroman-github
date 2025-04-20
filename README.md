@@ -23,7 +23,7 @@
 [![My Skills](https://skillicons.dev/icons?i=pycharm,vscode,postgres,postman,html,css,react,django)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=pycharm "Pycharm")](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=django "Django")](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=api "API")](https://skillicons.dev)
+<img src="https://github.com/danroman-github/resources2/blob/main/web-apis-blue.png" height="64" alt="Базы данных для python разработчиков"> 
 
 ## Мои работы:
 
