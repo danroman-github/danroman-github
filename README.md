@@ -23,7 +23,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=pycharm "Pycharm")](https://www.jetbrains.com/ru-ru/pycharm/)
 [![My Skills](https://skillicons.dev/icons?i=django "Django")](https://www.djangoproject.com/)
-<a href="https://ru.wikipedia.org/wiki/API" title="API"><img src="https://disk.yandex.ru/i/_7tx5QQ9kEwasg" height="52" alt="API"></a> 
+<a href="https://ru.wikipedia.org/wiki/API" title="API"><img src="https://github.com/danroman-github/resources2/blob/main/web-apis-blue.png" height="52" alt="API"></a> 
 [![My Skills](https://skillicons.dev/icons?i=postgres "PostgreSQL")](https://www.postgresql.org)
 <a href="https://www.sqlalchemy.org" title="SQLAlchemy"><img src="https://github.com/danroman-github/resources2/blob/main/alchemy-Dark.png" height="48"  alt="SQLAlchemy"></a>
 [![My Skills](https://skillicons.dev/icons?i=git "Git")](https://git-scm.com)
@@ -31,8 +31,6 @@
 [![My Skills](https://skillicons.dev/icons?i=css "CSS")](https://ru.wikipedia.org/wiki/CSS)
 [![My Skills](https://skillicons.dev/icons?i=js "JavaScript")](https://ru.wikipedia.org/wiki/JavaScript)
 [![My Skills](https://skillicons.dev/icons?i=react "React")](https://ru.react.dev/)
-
-<img src="https://u.netology.ru/backend/uploads/page_assets/images/file/46299/tools_API_color.png" class="icon_root__23Q63 styles_icon__7TqGb" title="">
 
 ## Мои работы:
 
