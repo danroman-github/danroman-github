@@ -17,11 +17,11 @@
 - Unit-тестирование при помощи PyTest и Jest
 
 
-[![My Skills](https://skillicons.dev/icons?i=git "Git")](https://git-scm.com)
-[![My Skills](https://skillicons.dev/icons?i=html "HTML")](https://en.wikipedia.org/wiki/HTML)
-[![My Skills](https://skillicons.dev/icons?i=css "CSS")](https://ru.wikipedia.org/wiki/CSS)
 [![My Skills](https://skillicons.dev/icons?i=js "JavaScript")](https://ru.wikipedia.org/wiki/JavaScript)
 [![My Skills](https://skillicons.dev/icons?i=react "React")](https://ru.react.dev/)
+[![My Skills](https://skillicons.dev/icons?i=html "HTML")](https://en.wikipedia.org/wiki/HTML)
+[![My Skills](https://skillicons.dev/icons?i=css "CSS")](https://ru.wikipedia.org/wiki/CSS)
+[![My Skills](https://skillicons.dev/icons?i=git "Git")](https://git-scm.com)
 
 ## Мои работы:
 
