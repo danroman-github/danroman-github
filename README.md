@@ -1,8 +1,8 @@
 ## Здравствуйте!
 
-Меня зовут Роман. Я программист на Python.
+Меня зовут Роман. Я программист Frontend-разработчик.
 
-г. Вышний Волочек, Тверская обл., Россия.
+г. Мурманск, Россия.
 
 [e-mail](mailto:danroman@yandex.ru) — предпочитаемый способ связи
 
@@ -10,8 +10,8 @@
 
 Ключевые компетенции
  
-- Вёрстка сайтов в HTML и CSS
 - Frontend-разработка на JavaScript и React
+- Вёрстка сайтов в HTML и CSS
 - Работа с изменениями кода проекта с помощью Git и GitHub
 - Решение универсальных задач с использованием Python
 - Разработка сайтов с помощью фреймворка Django
@@ -39,7 +39,9 @@
 ### Дипломы и сертификаты:
 
 <div>
- <img src="https://github.com/danroman-github/resources2/blob/main/Базы%20данных%20для%20python%20разработчиков.png" height="64" title="Базы данных для python разработчиков"> 
+ <img src="https://github.com/danroman-github/resources2/blob/main/Git.png" height="64" title="Git - система контроля версий"> 
+ <img src="https://github.com/danroman-github/resources2/blob/main/JavaScript_an_advanced_course_in_Web.png" height="64" title="JavaScript углубленный курс вебразработки">
+ <img src="https://github.com/danroman-github/resources2/blob/main/Базы%20данных%20для%20python%20разработчиков.png" height="64" title="Базы данных для python разработчиков">
  <img src="https://github.com/danroman-github/resources2/blob/main/Профессиональная%20работа%20с%20Python.png" height="64" title="Профессиональная работа с Python">
  <img src="https://github.com/danroman-github/resources2/blob/main/Django%20-%20создание%20backend-приложений.png" height="64" title="Django - создание backend-приложений">
  <img src="https://github.com/danroman-github/resources2/blob/main/HTML%20и%20CSS%20основы%20веб-верстки.png" height="64" title="HTML и CSS основы веб-верстки">
