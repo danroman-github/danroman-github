@@ -41,9 +41,6 @@
 <div>
  <img src="https://github.com/danroman-github/resources2/blob/main/Git.png" height="64" title="Git - система контроля версий"> 
  <img src="https://github.com/danroman-github/resources2/blob/main/JavaScript_an_advanced_course_in_Web.png" height="64" title="JavaScript углубленный курс вебразработки">
- <img src="https://github.com/danroman-github/resources2/blob/main/Базы%20данных%20для%20python%20разработчиков.png" height="64" title="Базы данных для python разработчиков">
- <img src="https://github.com/danroman-github/resources2/blob/main/Профессиональная%20работа%20с%20Python.png" height="64" title="Профессиональная работа с Python">
- <img src="https://github.com/danroman-github/resources2/blob/main/Django%20-%20создание%20backend-приложений.png" height="64" title="Django - создание backend-приложений">
  <img src="https://github.com/danroman-github/resources2/blob/main/HTML%20и%20CSS%20основы%20веб-верстки.png" height="64" title="HTML и CSS основы веб-верстки">
 </div>
 
