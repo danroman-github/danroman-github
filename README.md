@@ -30,9 +30,9 @@
 ### Дипломы и сертификаты:
 
 <div>
- <img src="https://github.com/danroman-github/resources2/blob/main/Git.png" height="64" title="Git - система контроля версий"> 
  <img src="https://github.com/danroman-github/resources2/blob/main/JavaScript_an_advanced_course_in_Web.png" height="64" title="JavaScript углубленный курс вебразработки">
  <img src="https://github.com/danroman-github/resources2/blob/main/HTML%20и%20CSS%20основы%20веб-верстки.png" height="64" title="HTML и CSS основы веб-верстки">
+ <img src="https://github.com/danroman-github/resources2/blob/main/Git.png" height="64" title="Git - система контроля версий"> 
 </div>
 
 
